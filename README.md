@@ -11,7 +11,7 @@ The Weather API Project is a simple yet effective web application that allows us
 - 🌡️ **Weather Details:** Displays temperature, humidity, wind speed, and more.
 
 ## 🚀 Live Demo
-[Click here to view the live project](https://abhijeet6706.github.io/Weather-API-Project/) *(Replace # with your GitHub Pages or deployed link if available.)*
+[Click here to view the live project](https://abhijeet6706.github.io/Weather-API-Project/) 
 
 ## 🛠️ Technologies Used
 This project is built using the following technologies:
